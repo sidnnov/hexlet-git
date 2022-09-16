@@ -1,1 +1,1 @@
-Python is cool!
+new string
